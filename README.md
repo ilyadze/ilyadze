@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d0%b8%d0%bb%d1%8c%d1%8f-%d0%b4%d0%b0%d1%88%d0%ba%d0%be-544736228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b8%d0%bb%d1%8c%d1%8f-%d0%b4%d0%b0%d1%88%d0%ba%d0%be-544736228/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B4%D0%B0%D1%88%D0%BA%D0%BE-544736228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b8%d0%bb%d1%8c%d1%8f-%d0%b4%d0%b0%d1%88%d0%ba%d0%be-544736228/" height="30" width="40" /></a>
 <a href="https://t.me/DashkoIlya" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/DashkoIlya" height="30" width="40" /></a>
 </p>
 
