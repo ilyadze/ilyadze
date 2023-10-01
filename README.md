@@ -4,7 +4,7 @@
 
 - 🌍  Currently located in Minsk
 - ✉️  You can contact me at [ilya.dashko228@gmail.com](mailto:ilya.dashko228@gmail.com)
-- 🧠  Now I'm learning Jetpack Angular
+- 🧠  Now I'm learning Angular
 - 🤝  I'm open to collaborating on interesting projects
 
 <h3 align="left">Connect with me:</h3>
